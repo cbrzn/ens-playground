@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sampleMethod.0",
+    "status": "SUCCEED",
+    "data": {
+      "result": "polywrap"
+    },
+    "validation": {
+      "status": "SUCCEED"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+#import { Module } into Another from "wrap://fs/../dependency-a/build"
+
+type Module {
+    sampleMethod(arg: String!): SampleResult!
+}
+
+type SampleResult {
+    result: String!
+}
